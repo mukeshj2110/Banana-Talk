@@ -1,0 +1,76 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("images/bgMini.jfif");
+}
+.nav-bar{
+
+    background: linear-gradient(to top right , #FAF089 , #B7791F);
+    width: 100%;
+    height: 15vh;
+    margin-top: 0px;
+}
+
+h1{
+    margin: 0px;
+    text-align: center;
+    top: 10%;
+    font-size: 4rem;
+}
+
+#btn-translate{
+    background-color: #9B2C2C;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    align-items: center;
+    margin: 0rem 30rem;
+}
+
+textarea{
+    width: 90%;
+    display: block;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1.5rem;
+}
+
+.msg{
+    font-size: larger;
+    font-weight: bold ;
+    font-size: 2rem;
+    margin-left: 1rem;
+    color: black;
+    text-align: center;
+}
+
+#output{
+    border: 2px solid black;
+    padding: 2rem;
+    height: 10vh;
+    width: 85%;
+    margin: 1rem;
+    background-color: wheat;
+    font-weight: bold;
+}
+
+#footer{
+    padding-bottom: 8rem;
+    background: linear-gradient(to top right , #FAF089 , #B7791F);
+    margin-bottom: 0px;
+}
+
+#footer #footer-head{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+p{
+    width: 60%;
+    margin: 2rem 10rem;
+    font-weight: bold;
+}
